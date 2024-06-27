@@ -2,3 +2,4 @@ adding line-1 in c.txt by main
 adding line-2 in c.txt by main 
 adding line-1 in c.txt by feature
 adding line-3 in c.txt main
+adding line-4 in c.txt main
