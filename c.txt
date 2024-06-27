@@ -1,1 +1,2 @@
 adding line-1 in c.txt by main
+adding line-2 in c.txt by min 
